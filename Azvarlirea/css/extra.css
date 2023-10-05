@@ -1,0 +1,29 @@
+.about_header{
+    position: sticky;
+    top:0; left:0; right:0;
+    background-color: var(--white);
+    box-shadow: var(--box-shadow);
+    z-index: 1000;
+ }
+ 
+ .about_header .flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+ }
+
+ .about_header .flex .navbar a{
+    margin:0 1rem;
+    font-size: 2rem;
+    color:var(--black);
+ }
+
+ .about_header .flex .navbar a:hover{
+    opacity: 0.7;
+ }
+
+ .about_header .flex .navbar .image img{
+    width: 60px;
+    height: 60px;
+ }
