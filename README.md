@@ -25,14 +25,13 @@
 
 <h2>Images</h2>
 <h3>Admin Dashboard</h3>
-![image](https://github.com/David-Nicholas/Azvarlirea-web/ReadmeAssets/Screenshot 2023-10-05 174459.png)
+<img src="ReadmeAssets/Screenshot 2023-10-05 174459.png">
 <h3>Cart</h3>
-![image](https://github.com/David-Nicholas/Azvarlirea-web/assets/ReadmeAssets/Screenshot 2023-10-05 174643.png)
+<img src="ReadmeAssets/Screenshot 2023-10-05 174643.png">
 <h3>Checkout</h3>
-![image](https://github.com/David-Nicholas/Azvarlirea-web/ReadmeAssets/Screenshot 2023-10-05 174721.png)
+<img src="ReadmeAssets/Screenshot 2023-10-05 174721.png">
 <h3>Product Manager</h3>
-![image](https://github.com/David-Nicholas/Azvarlirea-web/ReadmeAssets/Screenshot 2023-10-05 174807.png)
+<img src="ReadmeAssets/Screenshot 2023-10-05 174807.png">
 <h3>Register</h3>
-![image](https://github.com/David-Nicholas/Azvarlirea-web/ReadmeAssets/Screenshot 2023-10-05 174851.png)
-
+<img src="ReadmeAssets/Screenshot 2023-10-05 174851.png">
 
