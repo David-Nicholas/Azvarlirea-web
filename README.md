@@ -25,14 +25,14 @@
 
 <h2>Images</h2>
 <h3>Admin Dashboard</h3>
-![image](https://github.com/David-Nicholas/Azvarlirea-web/assets/47040197/47b74f18-5bdd-406a-9a93-e12536263c5a)
+![image](https://github.com/David-Nicholas/Azvarlirea-web/ReadmeAssets/Screenshot 2023-10-05 174459.png)
 <h3>Cart</h3>
-![image](https://github.com/David-Nicholas/Azvarlirea-web/assets/47040197/73a454c1-1808-474a-b5a1-e9cf764b348c)
+![image](https://github.com/David-Nicholas/Azvarlirea-web/assets/ReadmeAssets/Screenshot 2023-10-05 174643.png)
 <h3>Checkout</h3>
-![image](https://github.com/David-Nicholas/Azvarlirea-web/assets/47040197/21383a4a-ac8a-4b8e-bebe-3e1145ac75ba)
+![image](https://github.com/David-Nicholas/Azvarlirea-web/ReadmeAssets/Screenshot 2023-10-05 174721.png)
 <h3>Product Manager</h3>
-![image](https://github.com/David-Nicholas/Azvarlirea-web/assets/47040197/bb371296-e194-4580-a334-9fa55836105b)
+![image](https://github.com/David-Nicholas/Azvarlirea-web/ReadmeAssets/Screenshot 2023-10-05 174807.png)
 <h3>Register</h3>
-![image](https://github.com/David-Nicholas/Azvarlirea-web/assets/47040197/110802cb-6448-41a3-aab7-30a4fdcf6f39)
+![image](https://github.com/David-Nicholas/Azvarlirea-web/ReadmeAssets/Screenshot 2023-10-05 174851.png)
 
 
