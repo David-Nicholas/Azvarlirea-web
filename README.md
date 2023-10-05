@@ -8,6 +8,7 @@
 
 <p>Administrators have an easy-to-use interface for various tasks, including accepting orders, monitoring the shop's profits, checking the number of orders, reviewing the number of user accounts created, adding new products, managing user messages, and creating new admin accounts. They can also update the status of products.</p>
 
+<p>The website also features an "About" page that provides all the information someone needs to understand what the team does and what Ultimate Frisbee is.</p>
 
 <h2>What I Used to Build the Website</h2>
 
