@@ -13,3 +13,12 @@
 <h2>What I Used to Build the Website</h2>
 
 <p>HTML, CSS, JavaScript, and PHP</p>
+
+<h2>List of features</h2>
+
+<p>- User Account</p>
+<p>- Admin Account</p>
+<p>- Ordering System</p>
+<p>- Admin Dasboard</p>
+<p>- Product Manager</p>
+<p>- Responsive Design</p>
